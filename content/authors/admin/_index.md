@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Lyu Shen-Huan （吕沈欢）
+title: Lyu Shen-Huan 
+吕沈欢
 
 # Is this the primary user of the site?
 superuser: true
