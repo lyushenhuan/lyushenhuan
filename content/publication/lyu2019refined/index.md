@@ -35,9 +35,9 @@ abstract: In this paper, we formulate the forest representation learning approac
 
 
 # Summary. An optional shortened abstract.
-summary: we formulate the forest representation learning approach named casForest as an additive model and prove a margin-based bound.
+summary: This paper presents a margin-based theory for deep forests.
 
-tags: [deep forest]
+tags: [deep forest], [margin theory], [generalization bound]
 
 # Display this page in the Featured widget?
 featured: true
