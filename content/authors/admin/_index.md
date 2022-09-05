@@ -18,8 +18,8 @@ bio: My research interests include machine learning and data mining.
 
 # Interests to show in About widget
 interests:
-  - Deep Forest Theory
-  - Deep Neural Network Theory
+  - Deep Forests
+  - Deep Neural Networks
   - Open Environment Machine Learning
 
 # Education to show in About widget
