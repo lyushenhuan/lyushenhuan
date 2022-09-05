@@ -37,7 +37,7 @@ abstract: In this paper, we formulate the forest representation learning approac
 # Summary. An optional shortened abstract.
 summary: This paper presents a margin-based theory for deep forests.
 
-tags: [deep forest]
+tags: [deep forest, margin]
 
 # Display this page in the Featured widget?
 featured: true
