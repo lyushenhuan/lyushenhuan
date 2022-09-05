@@ -67,4 +67,4 @@ Currently I am a fifth year Ph.D. student of Department of Computer Science in [
 
 Email: lvsh@lamda.nju.edu.cn
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=TQG6c6MXFdP-2O-gpxgty2nZIJSekCHcmw1hvEl55As"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dbdbdb&w=353&t=tt&d=TQG6c6MXFdP-2O-gpxgty2nZIJSekCHcmw1hvEl55As&co=323232&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
