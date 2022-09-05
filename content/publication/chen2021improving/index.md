@@ -36,7 +36,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [deep forest]
+tags: [deep forest, interaction, representation learning]
 
 # Display this page in the Featured widget?
 featured: false
