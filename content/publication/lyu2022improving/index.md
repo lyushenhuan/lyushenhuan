@@ -29,7 +29,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Neural Networks*, 151:48-60, 2022.
-publication_short: *NEUNET'22*.
+publication_short: In *NEUNET'22*.
 
 abstract: 
 
