@@ -61,19 +61,6 @@ email: ''
 highlight_name: true
 ---
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
 Currently I am a fifth year Ph.D. student of Department of Computer Science and Technology in [Nanjing University](https://www.nju.edu.cn/main.htm) and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), led by professor [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
