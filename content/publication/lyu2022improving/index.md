@@ -28,7 +28,7 @@ publishDate: '2021-12-09T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: *Neural Networks*, 151:48-60, 2022.
+publication: In *Neural Networks*, 151:48-60, 2022.
 publication_short: *NEUNET'22*.
 
 abstract: 
