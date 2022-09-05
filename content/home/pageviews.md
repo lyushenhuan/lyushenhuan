@@ -1,8 +1,8 @@
 ---
-widget: widget_page
+widget: tag_cloud
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: false
