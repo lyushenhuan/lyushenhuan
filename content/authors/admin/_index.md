@@ -46,9 +46,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E6%B2%88%E6%AC%A2-%E5%90%95-90519419a/
-  - icon: email
-    icon_pack: fab
-    link: lvsh@lamda.nju.edu.cn
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -62,6 +60,19 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
 
 Currently I am a fifth year Ph.D. student of Department of Computer Science and Technology in [Nanjing University](https://www.nju.edu.cn/main.htm) and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), led by professor [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
 
