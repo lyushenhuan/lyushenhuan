@@ -25,7 +25,7 @@ experience:
   - title: Intership
     company: Huawei Noah's Ark Lab
     company_url: 'http://dev3.noahlab.com.hk/Recruitment-L.html'
-    company_logo: logo_small.jpg
+    company_logo: logo_small
     location: Nanjing
     date_start: '2022-06-08'
     date_end: '2022-08-27'
