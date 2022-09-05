@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Lyu Shen-Huan # Website name
+title: 吕沈欢 # Website name
 baseURL: 'https://lyushenhuan.netlify.app/' # Website URL
 
 ############################
