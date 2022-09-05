@@ -1,12 +1,12 @@
 ---
-title: 'Improving Generalization of Neural Networks by Leveraging Margin Distributions'
+title: 'A Region-based Analysis for the Feature Concatenation in Deep Forests'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Wang Lu
+  - Chen Yi-He
   - Zhou Zhi-Hua
 
 # Author notes (optional)
@@ -28,13 +28,13 @@ publishDate: '2021-12-09T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neural Networks*, 151:48-60, 2022.
-publication_short: In *NEUNET'22*
+publication: In *Chinese Journal of Electronics*, in press, 2022.
+publication_short: In *CJE'22*
 
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: We 
+summary: 
 
 tags: [deep neural networks]
 
