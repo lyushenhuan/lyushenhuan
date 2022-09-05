@@ -1,5 +1,5 @@
 ---
-widget: page
+widget: widget_page
 
 # Activate this widget? true/false
 active: true
