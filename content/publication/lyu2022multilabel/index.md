@@ -36,7 +36,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [deep forest]
+tags: [deep forest, multi-label learning, interaction, computational complexity, label correlation]
 
 # Display this page in the Featured widget?
 featured: false
