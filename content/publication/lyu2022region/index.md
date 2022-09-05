@@ -36,7 +36,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [deep neural networks]
+tags: [deep forest, region theory, ensemble learning, generalization bound, representation learning]
 
 # Display this page in the Featured widget?
 featured: false
