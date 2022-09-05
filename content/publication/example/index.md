@@ -1,19 +1,21 @@
 ---
-title: 'An example conference paper'
+title: ' A Refined Margin Distribution Analysis for Forest Representation Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Yang Liang
+  - Zhou Zhi-Hua
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - ''
+  - 'Corresponding author.'
 
-date: '2013-07-01T00:00:00Z'
+date: '2019-12-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,15 +28,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Advances in Neural Information Processing Systems 32*, pp. 5531-5541, Vancouver, CA, 2019.
+publication_short: In *NeurIPS'19*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we formulate the forest representation learning approach named casForest as an additive model, and show that the generalization error can be bounded by O(ln m/m), when the margin ratio related to the margin standard deviation against the margin mean is sufficiently small. This inspires us to optimize the ratio. To this end, we design a margin distribution reweighting approach for the deep forest model to attain a small margin ratio. Experiments confirm the relation between the margin distribution and generalization performance. We remark that this study offers a novel understanding of casForest from the perspective of the margin theory and further guides the layer-by-layer forest representation learning.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: we formulate the forest representation learning approach named casForest as an additive model and prove a margin-based bound.
 
-tags: []
+tags: [deep forest]
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
 url_code: ''
 url_dataset: ''
 url_poster: ''
