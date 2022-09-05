@@ -30,8 +30,9 @@ experience:
     date_start: '2022-06-08'
     date_end: '2022-08-27'
     description: |2-
-        * Analysing
-        Research topic: OOD Detection
+        Research topics: 
+        * OOD Detection
+        * Deep Ensemble
 
 
 design:
