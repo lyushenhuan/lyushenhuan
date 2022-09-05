@@ -37,21 +37,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=_NlDLQIAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/SabotuerH
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E6%B2%88%E6%AC%A2-%E5%90%95-90519419a/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,6 +61,6 @@ email: ''
 highlight_name: true
 ---
 
-Currently I am a fifth year Ph.D. student of Department of Computer Science and Technology in Nanjing University and a member of LAMDA Group, led by professor Zhi-Hua Zhou.
+Currently I am a fifth year Ph.D. student of Department of Computer Science and Technology in [Nanjing University](https://www.nju.edu.cn/main.htm) and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), led by professor [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
