@@ -67,4 +67,4 @@ Currently I am a fifth year Ph.D. student of Department of Computer Science and 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-email: test@example.org
+Email: lvsh@lamda.nju.edu.cn
