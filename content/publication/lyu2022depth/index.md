@@ -36,7 +36,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: This paper presents a consistency theory for deep forests.
 
-tags: [deep forest]
+tags: [deep forest, consistency, ensemble learning]
 
 # Display this page in the Featured widget?
 featured: true
