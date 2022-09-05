@@ -12,4 +12,6 @@ weight: 60
 
 title: Pageviews
 ---
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dbdbdb&w=353&t=tt&d=TQG6c6MXFdP-2O-gpxgty2nZIJSekCHcmw1hvEl55As&co=323232&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=692&t=n&d=TQG6c6MXFdP-2O-gpxgty2nZIJSekCHcmw1hvEl55As&co=000000'></script>
