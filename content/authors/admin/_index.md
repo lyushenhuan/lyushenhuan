@@ -67,7 +67,9 @@ email: ''
 highlight_name: true
 ---
 
-Currently I am a fifth year Ph.D. student of Department of Computer Science in [Nanjing University](https://www.nju.edu.cn/main.htm) and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx). I'm very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
+Currently I am a fifth year Ph.D. student of Department of Computer Science in [Nanjing University](https://www.nju.edu.cn/main.htm) and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx). 
+
+I'm very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
 
