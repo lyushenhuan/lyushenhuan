@@ -28,9 +28,9 @@ publishDate: '2021-12-09T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In 
+publication: In Preprint
 # *Advances in Neural Information Processing Systems 35*, in press, 2022.
-publication_short: In 
+publication_short: In Preprint
 # *NeurIPS'22*
 
 abstract: Random Forest (RF) is an ensemble learning algorithm proposed by Breiman [2001] that constructs a large number of randomized decision trees individually and aggregates their predictions by naive averaging. Zhou and Feng [2019] further propose Deep Forest (DF) algorithm with multi-layer feature transformation, which significantly outperforms single-layer random forest in various application fields. Despite its great successes, little is known about the mathematical properties of the cascade structure. In this paper, we analyze the influence of depth and width on the consistency of cascade forest. Especially when the individual tree is inconsistent (as in practice, the individual tree is often set to be fully grown, i.e., there is only one sample at each leaf node), we find that the convergence rate of two-layer DF w.r.t. the number of trees $M$ can reach $\mathcal{O}(1/M^2)$ under some mild conditions, while the convergence rate of single-layer RF is $\mathcal{O}(1/M)$. Therefore, learning decision trees in the “deep” layer will be more powerful than learning in the “shallow” layer. Experiments further confirm the theoretical advantages.
