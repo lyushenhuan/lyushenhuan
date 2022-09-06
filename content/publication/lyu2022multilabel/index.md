@@ -28,8 +28,10 @@ publishDate: '2021-12-09T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *软件学报*, in press, 2022.
-publication_short: In *JOS'22*
+publication: In 
+# *软件学报*, in press, 2022.
+publication_short: In 
+# *JOS'22*
 
 abstract: In multi-label learning, each sample is associated with multiple labels. The key task is how to use the correlation between labels when building the model. Multi-Label Deep Forest (MLDF) algorithm attempts to mine the correlation between labels by using layer-by-layer representation learning under the framework of deep ensemble learning. MLDF uses the obtained label probability representation to improve the prediction accuracy. However, on the one hand, the label probability representation is highly correlated with the label information, which will lead to its low diversity. As the depth of the deep forest increases, the performance will decline. On the other hand, the calculation of label probability requires us to store all layers of forest structure and use them one by one in the test stage, which will cause unbearable computational and storage overhead. To solve these problems, this paper proposes interaction representation based Multi-Label Deep Forest (iMLDF). iMLDF mines the structural information in the feature space from the decision path of the forest model, extracts the feature interaction in the decision tree path by using the random interaction trees, and obtains two interaction representations of feature confidence score and label probability distribution respectively. On the one hand, iMLDF makes full use of the feature structure information in the forest model to enrich the relevant information between labels. On the other hand, it calculates all the representations through interaction expressions, so that the algorithm does not need to store all the forest structures, which greatly improves the computational efficiency. The experimental results show that iMLDF achieves better prediction performance, and the computational efficiency is improved by an order of magnitude compared with MLDF for larger-scale datasets.
 
