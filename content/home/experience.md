@@ -30,9 +30,8 @@ experience:
     date_start: '2022-06-08'
     date_end: '2022-08-27'
     description: |2-
-        Research topics: 
-        * OOD Detection
-        * Deep Ensemble
+        Research topic: 
+        * Out-of-Ditribution (OOD) Detection & Generalization
 
 
 design:
