@@ -67,9 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-Currently I am a fifth year Ph.D. student of Department of Computer Science in [Nanjing University](https://www.nju.edu.cn/main.htm) and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx). 
-
-I'm very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
+I am a Ph.D. candidate of Computer Science and Technology in [Nanjing University](https://www.nju.edu.cn/main.htm), and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx). I'm very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my BS.c. degree in Statistics in June 2017 from [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
 
