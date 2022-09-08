@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-<!--   - icon: twitter
+  - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen -->
+    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -56,8 +56,8 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-<!-- projects:
-  - example -->
+projects:
+  - example
 ---
 
 <!-- {{% callout note %}}
