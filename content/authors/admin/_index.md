@@ -18,12 +18,9 @@ bio: My research interests include machine learning and data mining.
 
 # Interests to show in About widget
 interests:
-  - name: Deep Forests
-    url: https://doi.org/10.1093/nsr/nwy108
-  - name: Deep Neural Networks
-    url: https://doi.org/10.1038/nature14539
-  - name: Open Environment Machine Learning
-    url: https://doi.org/10.1093/nsr/nwac123
+  - Deep Forests
+  - Deep Neural Networks
+  - Open Environment Machine Learning
 
 # Education to show in About widget
 education:
