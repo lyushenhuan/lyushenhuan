@@ -26,10 +26,10 @@ interests:
 education:
   courses:
     - course: Ph.D. in Computer Science
-      institution: [Nanjing University (NJU)](https://www.nju.edu.cn/main.htm)
+      institution: Nanjing University (NJU)
       year: 2017-2022
     - course: BS.c. in Statistics
-      institution: [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/)
+      institution: University of Science and Technology of China (USTC)
       year: 2013-2017
 
 # Social/Academic Networking
