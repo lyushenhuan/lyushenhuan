@@ -18,18 +18,18 @@ bio: My research interests include machine learning and data mining.
 
 # Interests to show in About widget
 interests:
-  - Deep Forests
-  - Deep Neural Networks
-  - Open Environment Machine Learning
+  - [Deep Forests](https://doi.org/10.1093/nsr/nwy108)
+  - [Deep Neural Networks](https://doi.org/10.1038/nature14539)
+  - [Open Environment Machine Learning](https://doi.org/10.1093/nsr/nwac123)
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Computer Science
-      institution: Nanjing University (NJU)
+      institution: [Nanjing University (NJU)](https://www.nju.edu.cn/main.htm)
       year: 2017-2022
     - course: BS.c. in Statistics
-      institution: University of Science and Technology of China (USTC)
+      institution: [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/)
       year: 2013-2017
 
 # Social/Academic Networking
