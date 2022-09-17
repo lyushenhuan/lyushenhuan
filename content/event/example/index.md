@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Margin Distribution Deep Neural Networks
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 华为诺亚方舟实验室
+event_url: http://dev3.noahlab.com.hk/
 
 location: Online
 address:
@@ -12,13 +12,13 @@ address:
   postcode: 
   country: 
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: 
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-04-22T13:00:00Z'
-date_end: '2022-04-22T15:00:00Z'
+date: '2022-06-01T13:00:00Z'
+date_end: '2022-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
