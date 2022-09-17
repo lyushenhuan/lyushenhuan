@@ -1,10 +1,10 @@
 ---
 title: Margin Distribution Deep Neural Networks
 
-event: 华为诺亚方舟实验室
-event_url: http://dev3.noahlab.com.hk/
+event: Closed seminar
+event_url: 
 
-location: Online
+location: Huawei Noah's Ark Lab, Online
 address:
   street: 
   city: 
