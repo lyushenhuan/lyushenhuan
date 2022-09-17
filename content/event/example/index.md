@@ -1,5 +1,5 @@
 ---
-title: Margin Distribution Deep Neural Networks
+title: Margin Distribution Neural Networks
 
 event: Closed seminar
 event_url: 
