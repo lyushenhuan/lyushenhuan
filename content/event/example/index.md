@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: 
+summary: This is a talk related to the paper "Improving Generalization of Neural Networks by Leveraging Margin Distributions".
 abstract: ''
 
 # Talk start and end times.
