@@ -28,7 +28,7 @@ education:
     - course: Ph.D. in Computer Science
       institution: Nanjing University (NJU)
       year: 2017-2022
-    - course: BS.c. in Statistics
+    - course: B.Sc. in Statistics
       institution: University of Science and Technology of China (USTC)
       year: 2013-2017
 
