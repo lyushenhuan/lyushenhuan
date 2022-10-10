@@ -6,7 +6,7 @@ title: Lyu Shen-Huan
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. of Computer Science
+role: Ph.D. of Computer Science & Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,12 +20,12 @@ bio: My research interests include machine learning and data mining.
 interests:
   - Deep Forests
   - Deep Neural Networks
-  - Open Environment Machine Learning
+  - Open-Environment Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science & Technology
       institution: Nanjing University (NJU)
       year: 2017-2022
     - course: B.Sc. in Statistics
@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. candidate of Computer Science and Technology in [Nanjing University](https://www.nju.edu.cn/main.htm), and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx). I'm very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree in Statistics in June 2017 from [University of Science and Technology of China](https://www.ustc.edu.cn/).
+I am a Ph.D. candidate of Computer Science & Technology in [Nanjing University](https://www.nju.edu.cn/main.htm), and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx). I'm very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree in Statistics in June 2017 from [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
 
