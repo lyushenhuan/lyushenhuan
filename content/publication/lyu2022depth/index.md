@@ -1,5 +1,5 @@
 ---
-title: ' Depth is More Powerful than Width in Deep Forests'
+title: ' Depth is More Powerful than Width with Prediction Concatenation in Deep Forests'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
