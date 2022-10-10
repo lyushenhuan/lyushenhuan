@@ -29,7 +29,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Chinese Journal of Electronics*, in press, 2022.
-publication_short: In *CJE'22*
+publication_short: In *Chinese Journal of Electronics, 2022*
 
 abstract: Deep forest is a tree-based deep model made up of non-differentiable modules that are trained without backpropagation. Despite the fact that deep forests have achieved considerable success in a variety of tasks, the key to forest representation learning known as feature concatenation still lacks interpretability. In this paper, we aim to understand the influence of feature concatenation on predictive performance. To enable such theoretical studies, we present the first mathematical formula of feature concatenation based on the two-stage structure, which regards the splits along new features and raw features as a region selector and a region classifier respectively. Furthermore, we prove a region-based generalization bound for feature concatenation, which reveals the trade-off between Rademacher complexities of the two-stage structure and the fraction of instances that are correctly classified in the selected region. As a consequence, we show that compared with the prediction-based feature concatenation (PFC), the advantage of interaction-based feature concatenation (IFC) is that it obtains more abundant regions through distributed representation and alleviates the overfitting risk in local regions. Experiments confirm the correctness of our theoretical results.
 
