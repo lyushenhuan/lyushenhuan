@@ -16,7 +16,7 @@ author_notes:
   - 'Corresponding author.'
 
 date: '2022-12-09T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.neunet.2022.03.019'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-12-09T00:00:00Z'
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.neunet.2022.03.019'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
