@@ -46,13 +46,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://nips.cc/Conferences/2022/Schedule?showEvent=54559'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://nips.cc/Conferences/2022/Schedule?showEvent=54559'
 url_video: ''
 
 # Featured image
