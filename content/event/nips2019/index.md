@@ -2,7 +2,7 @@
 title: Margin Distribution Deep Forest
 
 event: NeurIPS 2019
-event_url: 
+event_url: 'https://nips.cc/Conferences/2019/Schedule?showEvent=13681'
 
 location: Vancouver Convention Center
 address:
