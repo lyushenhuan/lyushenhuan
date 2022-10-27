@@ -2,7 +2,7 @@
 title: Depth is More Powerful than Width with Prediction Concatenation in Deep Forest
 
 event: NeurIPS 2022
-event_url: https://neurips.cc/virtual/2022/poster/54559
+event_url: 'https://neurips.cc/virtual/2022/poster/54559'
 
 location: 
 address: New Orleans, Louisiana, US
