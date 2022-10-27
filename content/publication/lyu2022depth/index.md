@@ -16,7 +16,7 @@ author_notes:
   - 'Corresponding author.'
 
 date: '2022-12-09T00:00:00Z'
-doi: ''
+doi: 'https://nips.cc/Conferences/2022/Schedule?showEvent=54559'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-12-09T00:00:00Z'
@@ -52,7 +52,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://nips.cc/Conferences/2022/Schedule?showEvent=54559'
+url_source: ''
 url_video: ''
 
 # Featured image
