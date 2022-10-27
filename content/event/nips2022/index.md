@@ -5,7 +5,7 @@ event: NeurIPS 2022
 event_url: 'https://neurips.cc/virtual/2022/poster/54559'
 
 location: 
-address: New Orleans, Louisiana, US
+address: 'New Orleans, Louisiana, US'
   street: 
   city: 
   region: 
