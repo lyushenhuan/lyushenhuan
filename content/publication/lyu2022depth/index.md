@@ -42,9 +42,9 @@ tags: [deep forest, consistency, ensemble learning]
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: URL
-   url: https://nips.cc/Conferences/2022/Schedule?showEvent=54559
+links:
+- name: URL
+- url: https://nips.cc/Conferences/2022/Schedule?showEvent=54559
 
 url_pdf: ''
 url_code: ''
