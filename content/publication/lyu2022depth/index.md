@@ -16,7 +16,7 @@ author_notes:
   - 'Corresponding author.'
 
 date: '2022-12-09T00:00:00Z'
-doi: 'https://nips.cc/Conferences/2022/Schedule?showEvent=54559'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-12-09T00:00:00Z'
@@ -42,9 +42,9 @@ tags: [deep forest, consistency, ensemble learning]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: URL
+   url: https://nips.cc/Conferences/2022/Schedule?showEvent=54559
 
 url_pdf: ''
 url_code: ''
