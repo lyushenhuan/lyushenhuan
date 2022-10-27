@@ -17,12 +17,12 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-12-08T13:00:00Z'
-date_end: '2019-12-08T15:00:00Z'
+date: '2022-12-08T13:00:00Z'
+date_end: '2022-12-08T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2019-12-08T00:00:00Z'
+publishDate: '2022-10-08T00:00:00Z'
 
 authors: [Lyu Shen-Huan]
 tags: [deep forest, consistency]
