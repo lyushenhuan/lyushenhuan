@@ -4,7 +4,7 @@ title: Depth is More Powerful than Width with Prediction Concatenation in Deep F
 event: NeurIPS 2022
 event_url: 'https://neurips.cc/virtual/2022/poster/54559'
 
-location: New Orleans Convention Center (Online)
+location: New Orleans Convention Center, Online
 address:
   street: 
   city: New Orleans
