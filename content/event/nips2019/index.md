@@ -4,13 +4,13 @@ title: Margin Distribution Deep Forest
 event: NeurIPS 2019
 event_url: 
 
-location: Vancouver, Canada
+location: Vancouver Convention Center
 address:
   street: 
-  city: 
-  region: 
+  city: Vancouver
+  region: British Columbia
   postcode: 
-  country: 
+  country: Canada
 
 summary: This is a talk related to the paper "A Refined Margin Distribution Analysis for Forest Representation Learning".
 abstract: ''
