@@ -43,11 +43,11 @@ tags: [deep forest, margin theory, generalization bound]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  url: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
 
-url_pdf: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
