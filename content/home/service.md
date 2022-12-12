@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 7
+weight: 8
 
 # Section title
 title: Academic Service

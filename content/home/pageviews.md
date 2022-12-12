@@ -8,7 +8,7 @@ active: true
 headless: false
 
 # Order that this section appears on the page.
-weight: 9
+weight: 10
 
 title: Pageviews
 ---
