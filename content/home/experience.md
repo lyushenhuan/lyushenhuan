@@ -32,7 +32,16 @@ experience:
     description: |2-
         Research topic: 
         * Out-of-Ditribution (OOD) Detection & Generalization
-
+  - title: Postdoc
+    company: Hohai University
+    company_url: 'https://www.hhu.edu.cn/'
+    company_logo: hhu
+    location: Nanjing
+    date_start: '2022-12-25'
+    date_end: '2024-12-25'
+    description: |2-
+        Research topic: 
+        * Deep Ensemble Learning
 
 design:
   columns: '2'
