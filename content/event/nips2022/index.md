@@ -1,5 +1,5 @@
 ---
-title: Depth is More Powerful than Width with Prediction Concatenation in Deep Forest
+title: Depth is More Powerful than Width
 
 event: NeurIPS 2022
 event_url: 'https://neurips.cc/virtual/2022/poster/54559'
