@@ -37,8 +37,8 @@ experience:
     company_url: 'https://www.hhu.edu.cn/'
     company_logo: hhu
     location: Nanjing
-    date_start: '2021-11-25'
-    date_end: '2022-10-25'
+    date_start: '2022-12-25'
+    date_end: '2024-12-25'
     description: |2-
         Research topic: 
         * Deep Ensemble Learning
