@@ -32,6 +32,8 @@ experience:
     description: |2-
         Research topic: 
         * Out-of-Ditribution (OOD) Detection & Generalization
+
+experience:
   - title: Postdoc
     company: Hohai University
     company_url: 'https://www.hhu.edu.cn/'
