@@ -1,4 +1,3 @@
-```yaml
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -24,10 +23,9 @@ design:
   background:
     color: 'navy'
     text_color_light: true
-    
+
 good:
 - 1
 - 2
 
 ---
-```
