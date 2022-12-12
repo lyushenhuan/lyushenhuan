@@ -25,7 +25,7 @@ main:
   - name: Service
     url: '#service'
     weight: 50
-  - name: Award
+  - name: Awards
     url: '#award'
     weight: 60
 #   - name: Contact
