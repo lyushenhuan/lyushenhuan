@@ -6,12 +6,12 @@ title: Lyu Shen-Huan
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. of Computer Science & Technology
+role: Postdoc of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanjing University
-    url: https://www.nju.edu.cn/
+  - name: Hohai University
+    url: https://www.hhu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning and data mining.
@@ -66,8 +66,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a Ph.D. candidate of Computer Science & Technology in [Nanjing University](https://www.nju.edu.cn/main.htm), and a member of [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx). I'm very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree in Statistics in June 2017 from [University of Science and Technology of China](https://www.ustc.edu.cn/).
+I am a Postdoc in College of Computer and Information at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from Department of Computer Science and Technology in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree in Statistics in June 2017 from [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
 
