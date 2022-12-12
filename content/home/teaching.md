@@ -26,5 +26,5 @@ design:
 
 ---
 
-- Introduction to Machine Learning. (With Prof. Zhi-Hua Zhou; For Undergraduate Students in Nanjing University, Spring, 2018)
+- [Introduction to Machine Learning](http://www.lamda.nju.edu.cn/zhandc/ml2018/ml2018materialentry.htm). (With Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm); For Undergraduate Students in Nanjing University, Spring, 2018)
 
