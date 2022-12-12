@@ -24,8 +24,8 @@ design:
     color: 'navy'
     text_color_light: true
 
+---
+
 good:
 - 1
 - 2
-
----
