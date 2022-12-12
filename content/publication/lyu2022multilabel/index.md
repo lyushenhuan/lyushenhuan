@@ -28,7 +28,7 @@ publishDate: '2021-12-09T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In Journal of Software, under revision, 2022.
+publication: In Journal of Software, 2022.
 publication_short: In *Journal of Software, 2022*
 # *JOS'22*
 
