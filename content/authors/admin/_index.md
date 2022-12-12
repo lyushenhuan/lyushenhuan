@@ -66,7 +66,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Postdoc in College of Computer and Information at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from Department of Computer Science and Technology in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree in Statistics in June 2017 from [University of Science and Technology of China](https://www.ustc.edu.cn/).
+I am a Postdoc in College of Computer and Information at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from Department of Computer Science and Technology in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree in Statistics in Jun. 2017 from [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
 
