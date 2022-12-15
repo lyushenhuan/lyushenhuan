@@ -34,7 +34,7 @@ experience:
         * Deep Ensemble Learning
   - title: Internship
     company: Huawei Noah's Ark Lab
-    company_url: 'http://dev3.noahlab.com.hk/Recruitment-L.html'
+    company_url: 'http://dev3.noahlab.com.hk'
     company_logo: huawei
     location: Nanjing
     date_start: '2022-06-08'
