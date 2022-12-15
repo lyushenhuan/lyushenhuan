@@ -56,7 +56,7 @@ experience:
     company: University of Science and Technology of China
     company_url: 'https://www.ustc.edu.cn/'
     company_logo: ustc
-    location: Nanjing
+    location: Hefei
     date_start: '2013-09-01'
     date_end: '2017-06-01'
     description: |2-
