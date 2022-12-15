@@ -30,8 +30,8 @@ experience:
     date_start: '2022-12-25'
     date_end: '2024-12-25'
     description: |2-
-        Research topic: 
-        * Deep Ensemble Learning
+        # Research topic: 
+        # * Deep Ensemble Learning
   - title: Internship
     company: Huawei Noah's Ark Lab
     company_url: 'http://dev3.noahlab.com.hk'
@@ -40,8 +40,8 @@ experience:
     date_start: '2022-06-08'
     date_end: '2022-08-27'
     description: |2-
-        Research topic: 
-        * Out-of-Ditribution (OOD) Detection & Generalization
+        # Research topic: 
+        # * Out-of-Ditribution (OOD) Detection & Generalization
   - title: Ph.D.
     company: Nanjing University
     company_url: 'https://www.nju.edu.cn/main.htm'
@@ -50,8 +50,8 @@ experience:
     date_start: '2017-09-01'
     date_end: '2022-12-25'
     description: |2-
-        Research topic: 
-        * Deep Forest
+        # Research topic: 
+        # * Deep Forest
   - title: B.Sc.
     company: University of Science and Technology of China
     company_url: 'https://www.ustc.edu.cn/'
