@@ -42,6 +42,24 @@ experience:
     description: |2-
         Research topic: 
         * Out-of-Ditribution (OOD) Detection & Generalization
+  - title: Ph.D.
+    company: Nanjing University
+    company_url: 'https://www.nju.edu.cn/main.htm'
+    company_logo: nju
+    location: Nanjing
+    date_start: '2017-09-01'
+    date_end: '2022-12-25'
+    description: |2-
+        Research topic: 
+        * Deep Forest
+  - title: B.Sc.
+    company: University of Science and Technology of China
+    company_url: 'https://www.ustc.edu.cn/'
+    company_logo: ustc
+    location: Nanjing
+    date_start: '2013-09-01'
+    date_end: '2017-06-01'
+    description: |2-
 
 
 design:
