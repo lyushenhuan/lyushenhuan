@@ -1,5 +1,5 @@
 ---
-title: 'On the consistency rate of decision tree learning algorithms'
+title: 'On the Consistency Rate of Decision Tree Learning Algorithms'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
