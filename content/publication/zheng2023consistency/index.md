@@ -1,5 +1,5 @@
 ---
-title: 'Improving Generalization of Deep Neural Networks by Leveraging Margin Distributions'
+title: 'On the consistency rate of decision tree learning algorithms'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,6 +13,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
+  - ''
+  - ''
   - ''
   - ''
   - 'Corresponding author.'
