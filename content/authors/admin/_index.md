@@ -88,6 +88,6 @@ email: ''
 highlight_name: true
 ---
 
-I am an Assistant Researcher in [College of Computer and Information](https://cies.hhu.edu.cn/) at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from Department of Computer Science & Technology in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree in Statistics in Jun. 2017 from [University of Science and Technology of China](https://www.ustc.edu.cn/).
+I am an Assistant Researcher in [College of Computer and Information](https://cies.hhu.edu.cn/) at [Hohai University](https://www.hhu.edu.cn/). I obtained my Ph.D. degree from [Department of Computer Science & Technology](https://cs.nju.edu.cn/) in [Nanjing University](https://www.nju.edu.cn/main.htm) in Dec. 2022, where I was very fortunate to be advised by Prof. [Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Before that, I received my B.Sc. degree from [School of Management](https://som.ustc.edu.cn/) from [University of Science and Technology of China](https://www.ustc.edu.cn/) in Jun. 2017.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
