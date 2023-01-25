@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoc
+  - title: Assistant Researcher
     company: Hohai University
     company_url: 'https://www.hhu.edu.cn/'
     company_logo: hhu
@@ -32,7 +32,7 @@ experience:
     description: |2-
 #        Research topic: 
 #        * Deep Ensemble Learning
-  - title: Internship
+  - title: Machine Learning Engineer
     company: Huawei Noah's Ark Lab
     company_url: 'http://dev3.noahlab.com.hk'
     company_logo: huawei
