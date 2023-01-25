@@ -26,12 +26,15 @@ design:
 
 ---
 
+**Senior Program Committee Member of Conferences:**
+- IJCAI: 2021
+
 **Program Committee Member of Conferences:**
-- ICML: 2021, 2022
+- ICML: 2021, 2022, 2023
 - NeurIPS: 2020,2021, 2022
 - AAAI: 2020, 2021
-- IJCAI: 2020, 2021, 2022
-- ICLR: 2020, 2021
+- IJCAI: 2020, 2022, 2023
+- ICLR: 2020, 2021, 2022
 - AISTATS: 2020
 
 **Reviewer for Journals:**
@@ -41,4 +44,7 @@ design:
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - ACM Transactions on Knowledge Discovery from Data (TKDD)
 - Machine Learning (MLJ)
+- Research
+- Chinese Journal of Electronics (CJE)
+- 软件学报 (Journal of Software, JOS)
 
