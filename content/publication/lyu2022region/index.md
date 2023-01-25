@@ -1,5 +1,5 @@
 ---
-title: 'A Region-based Analysis for the Feature Concatenation in Deep Forests'
+title: 'A Region-Based Analysis for the Feature Concatenation in Deep Forests'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
