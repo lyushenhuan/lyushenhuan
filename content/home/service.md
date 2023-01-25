@@ -35,7 +35,6 @@ design:
 - AAAI: 2020, 2021
 - IJCAI: 2020, 2022, 2023
 - ICLR: 2020, 2021, 2022
-- AISTATS: 2020
 
 **Reviewer for Journals:**
 - Artificial Intelligence (AIJ)
