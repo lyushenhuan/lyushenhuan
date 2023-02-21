@@ -34,7 +34,7 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. in Computer Science & Technology
+    - course: Ph.D. in Computer Science
       institution: Nanjing University (NJU)
       year: 2017-2022
     - course: B.Sc. in Statistics
