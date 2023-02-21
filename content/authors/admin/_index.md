@@ -26,9 +26,9 @@ bio: My research interests include machine learning and data mining.
 
 interests:
 
+- Ensemble Learning
 - Learning Theory and Optimization
-- Deep Ensemble Learning
-- Reinforcement Learning
+
 
 # Education to show in About widget
 
