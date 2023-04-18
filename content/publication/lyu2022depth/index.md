@@ -6,8 +6,8 @@ title: ' Depth is More Powerful than Width with Prediction Concatenation in Deep
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - He Yi-Xiao
-  - Zhou Zhi-Hua
+  - Yi-Xiao He
+  - Zhi-Hua Zhou
 
 # Author notes (optional)
 author_notes:

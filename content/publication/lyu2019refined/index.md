@@ -6,8 +6,8 @@ title: ' A Refined Margin Distribution Analysis for Forest Representation Learni
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yang Liang
-  - Zhou Zhi-Hua
+  - Liang Yang
+  - Zhi-Hua Zhou
 
 # Author notes (optional)
 author_notes:

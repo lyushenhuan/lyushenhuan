@@ -5,9 +5,9 @@ title: 'Improving Deep Forest by Exploiting High-Order Interactions'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Chen Yi-He
+  - Yi-He Chen
   - admin
-  - Jiang Yuan
+  - Yuan Jiang
 
 # Author notes (optional)
 author_notes:

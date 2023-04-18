@@ -6,8 +6,8 @@ title: '基于交互表示的多标记深度森林方法'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Chen Yi-He
-  - Jiang Yuan
+  - Yi-He Chen
+  - Yuan Jiang
 
 # Author notes (optional)
 author_notes:

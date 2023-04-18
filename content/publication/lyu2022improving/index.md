@@ -6,8 +6,8 @@ title: 'Improving Generalization of Deep Neural Networks by Leveraging Margin Di
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Wang Lu
-  - Zhou Zhi-Hua
+  - Lu Wang
+  - Zhi-Hua Zhou
 
 # Author notes (optional)
 author_notes:
