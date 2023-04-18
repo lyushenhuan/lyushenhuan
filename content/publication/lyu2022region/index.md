@@ -6,8 +6,8 @@ title: 'A Region-Based Analysis for the Feature Concatenation in Deep Forests'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Chen Yi-He
-  - Zhou Zhi-Hua
+  - Yi-He Chen
+  - Zhi-Hua Zhou
 
 # Author notes (optional)
 author_notes:
