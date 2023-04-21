@@ -1,5 +1,5 @@
 ---
-title: ' Depth is More Powerful than Width with Prediction Concatenation in Deep Forests'
+title: 'Depth is More Powerful than Width with Prediction Concatenation in Deep Forests'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,11 +15,11 @@ author_notes:
   - ''
   - 'Corresponding author.'
 
-date: '2022-12-09T00:00:00Z'
+date: '2022-12-08T00:00:00Z'
 # doi: 'https://papers.nips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-12-09T00:00:00Z'
+publishDate: '2022-12-09T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
