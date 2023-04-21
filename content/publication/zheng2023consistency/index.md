@@ -33,7 +33,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 26th International Conference on Artificial Intelligence and Statistics*, page to appear, Valencia, ES, 2023.
-publication_short: In *AISTATS*
+publication_short: In *Proceedings of the 26th International Conference on Artificial Intelligence and Statistics* **(AISTATS)**, pp. 7824-7848, Valencia, ES
 
 abstract: Decision tree learning algorithms such as CART are generally based on heuristics that maximizes the impurity gain greedily. Though these algorithms are practically successful, theoretical properties such as consistency are far from clear. In this paper, we disclose that the most serious obstacle encumbering consistency analysis for decision tree learning algorithms lies in the fact that the worst-case impurity gain, i.e., the core heuristics for tree splitting, can be zero. Based on this recognition, we present a new algorithm, named Grid Classification And Regression Tree (GridCART), with a provable consistency rate $\mathcal{O}(n^{-1/(d+2)})$, which is the first consistency rate proved for heuristic tree learning algorithms.
 
