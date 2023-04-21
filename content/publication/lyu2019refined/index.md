@@ -29,7 +29,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Advances in Neural Information Processing Systems 32*, pp. 5531-5541, Vancouver, CA, 2019.
-publication_short: In *NeurIPS*
+publication_short: In *Advances in Neural Information Processing Systems 32* **(NeurIPS)**, pp. 5531-5541, Vancouver, CA
 
 abstract: In this paper, we formulate the forest representation learning approach named casForest as an additive model, and show that the generalization error can be bounded by O(ln m/m), when the margin ratio related to the margin standard deviation against the margin mean is sufficiently small. This inspires us to optimize the ratio. To this end, we design a margin distribution reweighting approach for the deep forest model to attain a small margin ratio. Experiments confirm the relation between the margin distribution and generalization performance. We remark that this study offers a novel understanding of casForest from the perspective of the margin theory and further guides the layer-by-layer forest representation learning.
 
