@@ -20,7 +20,7 @@ author_notes:
   - 'Corresponding author.'
 
 date: '2023-01-19T00:00:00Z'
-doi: 'https://proceedings.mlr.press/v206/zheng23b.html'
+# doi: 'https://proceedings.mlr.press/v206/zheng23b.html'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-20T00:00:00Z'
@@ -46,9 +46,9 @@ tags: [desicion tree, consistency]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  url: 'https://proceedings.mlr.press/v206/zheng23b.html'
 
 url_pdf: ''
 url_code: ''

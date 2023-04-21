@@ -16,7 +16,7 @@ author_notes:
   - 'Corresponding author.'
 
 date: '2019-12-09T00:00:00Z'
-doi: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
+# doi: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -43,9 +43,9 @@ tags: [deep forest, margin theory, generalization bound]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: 'URL'
-#   url: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
+links:
+- name: 'URL'
+  url: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
 
 url_pdf: ''
 url_code: ''

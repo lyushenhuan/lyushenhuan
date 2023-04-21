@@ -16,7 +16,7 @@ author_notes:
   - 'Corresponding author.'
 
 date: '2022-12-09T00:00:00Z'
-doi: 'https://papers.nips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html'
+# doi: 'https://papers.nips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-12-09T00:00:00Z'
@@ -42,9 +42,9 @@ tags: [deep forest, consistency, ensemble learning]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: URL
-#   url: 'https://papers.nips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html'
+links:
+- name: URL
+  url: 'https://papers.nips.cc/paper_files/paper/2022/hash/c017e92288b5056c578bb6b0b69d9e76-Abstract-Conference.html'
 
 url_pdf: ''
 url_code: ''
