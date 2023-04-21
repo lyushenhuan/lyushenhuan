@@ -26,11 +26,8 @@ design:
 
 ---
 
-- The Second Class Academic Scholarship in Nanjing University , Nanjing, 2020
 - Artificial Intelligence Scholarship in Nanjing University , Nanjing, 2019
-- The First Class Academic Scholarship in Nanjing University , Nanjing, 2019
-- The First Class Academic Scholarship in Nanjing University , Nanjing, 2018
+- The First Class Academic Scholarship in Nanjing University , Nanjing, 2018-2019
 - Presidential Special Scholarship for first year Ph.D. Student in Nanjing University , Nanjing, 2017
-- The University Silver Prize Scholarship for Excellent Student in University of Science and Technology of China , Hefei, 2016
-- The University Silver Prize Scholarship for Excellent Student in University of Science and Technology of China , Hefei, 2014
+- The University Silver Prize Scholarship for Excellent Student in University of Science and Technology of China , Hefei, 2014-2016
 
