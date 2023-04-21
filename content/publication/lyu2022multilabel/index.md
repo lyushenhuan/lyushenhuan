@@ -15,11 +15,11 @@ author_notes:
   - ''
   - 'Corresponding author.'
 
-date: '2022-12-09T00:00:00Z'
+date: '2023-06-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-12-09T00:00:00Z'
+publishDate: '2023-06-09T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ publishDate: '2021-12-09T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In 软件学报, 2022.
+publication: In 软件学报, 2023.
 publication_short: In 软件学报
 
 
