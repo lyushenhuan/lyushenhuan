@@ -47,7 +47,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: URL
+- name: DOI
   url: 'https://proceedings.mlr.press/v206/zheng23b.html'
 
 url_pdf: ''
