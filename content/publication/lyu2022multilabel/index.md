@@ -1,5 +1,5 @@
 ---
-title: '基于交互表示的多标记深度森林方法'
+title: 'Interaction Representations Based Deep Forest Method in Multi-Label Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,11 +15,11 @@ author_notes:
   - ''
   - 'Corresponding author.'
 
-date: '2023-06-09T00:00:00Z'
+date: '2023-02-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-09T00:00:00Z'
+publishDate: '2023-02-09T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +28,8 @@ publishDate: '2023-06-09T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *软件学报*, 2023.
-publication_short: In **软件学报**
+publication: In *Ruan Jian Xue Bao/Journal of Software*, 2023.
+publication_short: In **Journal of Software**, in press
 
 
 abstract: In multi-label learning, each sample is associated with multiple labels. The key task is how to use the correlation between labels when building the model. Multi-Label Deep Forest (MLDF) algorithm attempts to mine the correlation between labels by using layer-by-layer representation learning under the framework of deep ensemble learning. MLDF uses the obtained label probability representation to improve the prediction accuracy. However, on the one hand, the label probability representation is highly correlated with the label information, which will lead to its low diversity. As the depth of the deep forest increases, the performance will decline. On the other hand, the calculation of label probability requires us to store all layers of forest structure and use them one by one in the test stage, which will cause unbearable computational and storage overhead. To solve these problems, this paper proposes interaction representation based Multi-Label Deep Forest (iMLDF). iMLDF mines the structural information in the feature space from the decision path of the forest model, extracts the feature interaction in the decision tree path by using the random interaction trees, and obtains two interaction representations of feature confidence score and label probability distribution respectively. On the one hand, iMLDF makes full use of the feature structure information in the forest model to enrich the relevant information between labels. On the other hand, it calculates all the representations through interaction expressions, so that the algorithm does not need to store all the forest structures, which greatly improves the computational efficiency. The experimental results show that iMLDF achieves better prediction performance, and the computational efficiency is improved by an order of magnitude compared with MLDF for larger-scale datasets.
