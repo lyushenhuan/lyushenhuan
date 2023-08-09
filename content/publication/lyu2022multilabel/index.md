@@ -16,7 +16,7 @@ author_notes:
   - 'Corresponding author.'
 
 date: '2023-02-09T00:00:00Z'
-doi: ''
+doi: 'http://dx.doi.org/10.13328/j.cnki.jos.006841'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-02-09T00:00:00Z'
