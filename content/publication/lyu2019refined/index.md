@@ -44,7 +44,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: 'Source'
+- name: 'DOI'
   url: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
 
 url_pdf: ''
