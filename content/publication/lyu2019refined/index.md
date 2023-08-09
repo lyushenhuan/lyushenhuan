@@ -16,7 +16,7 @@ author_notes:
   - 'Corresponding author.'
 
 date: '2019-12-09T00:00:00Z'
-# doi: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -40,11 +40,11 @@ summary: This paper presents a margin-based theory for deep forests.
 tags: [deep forest, margin theory, generalization bound]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: 'DOI'
+- name: 'Source'
   url: 'https://papers.nips.cc/paper/8791-a-refined-margin-distribution-analysis-for-forest-representation-learning'
 
 url_pdf: ''
